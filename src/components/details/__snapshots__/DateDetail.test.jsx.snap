@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail component renders App 1`] = `
+<DocumentFragment>
+  <figure>
+    <figcaption />
+    <figcaption />
+    <img
+      style="height: 50%; width: 50%;"
+    />
+    <figcaption />
+    <figcaption />
+  </figure>
+  <a
+    href="/"
+  >
+    Back
+  </a>
+</DocumentFragment>
+`;
