@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item component renders Item 1`] = `
+<DocumentFragment>
+  <a
+    href="/date/undefined"
+  >
+     
+    <figure>
+      <img
+        style="height: 50%; width: 50%;"
+      />
+      <figcaption />
+      <figcaption />
+    </figure>
+  </a>
+</DocumentFragment>
+`;

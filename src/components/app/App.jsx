@@ -7,7 +7,7 @@ export default function App() {
   return (<Router>
     <Switch>
       <Route exact path="/" component={List} />
-      {/* <Route path="/date/:date" component={Details} /> */}
+      <Route path="/date/:day" component={Details} />
     </Switch>
   </Router>);
 }
